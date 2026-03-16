@@ -1,11 +1,11 @@
 # SlotsHub
-**Slot games aggregator platform with flexible integration and personal dashboard**
+## Slot games aggregator platform with flexible integration and personal dashboard
 
 ![SlotsHub](./Slots.png)
 
 ---
 
-## 🇬🇧 EN
+## EN
 
 SlotHub – the best games on the market with a multifunctional personal cabinet!
 You receive detailed and complete documentation for integration.
@@ -29,7 +29,7 @@ https://t.me/deadlinus
 
 ---
 
-## 🇷🇺 RU
+## RU
 
 SlotHub - лучшие игры на рынке с многофункциональным личным кабинетом!
 Получаете подробную и полную документацию для подключения.
