@@ -21,8 +21,8 @@ Monthly payment: only the GGR percentage
 Full package – from $1000 (discussed individually)
 License registration – $250
 
-**For all integration inquiries, please contact us here.**
-**https://t.me/deadlinus**
+##**For all integration inquiries, please contact us here.**
+##**https://t.me/deadlinus**
 -----------------------------------------------------------------------------------------------------------------
 **RU**
 SlotHub - лучшие игры на рынке с многофункциональным личным кабинетом!
@@ -40,5 +40,5 @@ RTP настройка - 60% - 96%
 Полный комплект - от 1.000$ (обсуждается лично)
 Оформление лицензии - 250$
 
-**По всем вопросам интеграции, пожалуйста, свяжитесь с нами здесь.**
-**https://t.me/deadlinus**
+##**По всем вопросам интеграции, пожалуйста, свяжитесь с нами здесь.**
+##**https://t.me/deadlinus**
