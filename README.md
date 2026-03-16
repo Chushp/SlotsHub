@@ -1,8 +1,8 @@
 # SlotsHub
-Slot games aggregator platform with flexible integration and personal dashboard
+**Slot games aggregator platform with flexible integration and personal dashboard**
 ![SlotsHub](./Slots.png)
 -----------------------------------------------------------------------------------------------------------------
-EN
+**EN**
 SlotHub – the best games on the market with a multifunctional personal cabinet!
 You receive detailed and complete documentation for integration.
 A personal dashboard with multifunctional game settings is provided.
@@ -21,10 +21,10 @@ Monthly payment: only the GGR percentage
 Full package – from $1000 (discussed individually)
 License registration – $250
 
-For all integration inquiries, please contact us here.
-https://t.me/deadlinus
+**For all integration inquiries, please contact us here.**
+**https://t.me/deadlinus**
 -----------------------------------------------------------------------------------------------------------------
-RU
+**RU**
 SlotHub - лучшие игры на рынке с многофункциональным личным кабинетом!
 Получаете подробную и полную документацию для подключения
 Вам предоставляется личный кабинет с многофункциональными настройками игр
@@ -40,5 +40,5 @@ RTP настройка - 60% - 96%
 Полный комплект - от 1.000$ (обсуждается лично)
 Оформление лицензии - 250$
 
-По всем вопросам интеграции, пожалуйста, свяжитесь с нами здесь.
-https://t.me/deadlinus
+**По всем вопросам интеграции, пожалуйста, свяжитесь с нами здесь.**
+**https://t.me/deadlinus**
